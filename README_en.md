@@ -5,4 +5,14 @@ This project, although having the README in three languages, will always be upda
 
 # Aquautomatic Firmware
 
-# Project Description
+## Project Description
+
+This project consists of regulating the temperature of an aquarium, activating the light and displaying information on a 16x2 LCD display.
+
+## Features
+
+- Activation of the AC output by TRIAC.
+- Reading in analog pin for Temperature.
+- Digital pin reading for the Button.
+- Activation of digital channel for Lighting.
+- Digital channel trigger for AC trigger information.
